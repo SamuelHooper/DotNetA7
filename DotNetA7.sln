@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetA7", "DotNetA7\DotNetA7.csproj", "{68CF13C5-93CE-4302-AFFC-EEBA0101EF1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetA7.Tests", "DotNetA7.Tests\DotNetA7.Tests.csproj", "{80E443FE-7343-492A-A532-B9EAAEBC5394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CF13C5-93CE-4302-AFFC-EEBA0101EF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF13C5-93CE-4302-AFFC-EEBA0101EF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF13C5-93CE-4302-AFFC-EEBA0101EF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF13C5-93CE-4302-AFFC-EEBA0101EF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E443FE-7343-492A-A532-B9EAAEBC5394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E443FE-7343-492A-A532-B9EAAEBC5394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E443FE-7343-492A-A532-B9EAAEBC5394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E443FE-7343-492A-A532-B9EAAEBC5394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968A751D-4F77-4521-B878-D639AA863575}
+	EndGlobalSection
+EndGlobal
